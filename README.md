@@ -64,8 +64,3 @@ Celem projektu jest **eksperymentalna analiza zagrożeń, wykrywanie podatności
 ---
 
 > **Uwaga:** Wszystko testowane na prywatnej infrastrukturze – projekt edukacyjny.
-
----
-
-### 🧠 Portfolio Hackera w Budowie  
-`Pokaż, że umiesz. Najpierw siebie.`  
