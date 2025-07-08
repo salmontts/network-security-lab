@@ -49,7 +49,7 @@ Celem projektu jest **eksperymentalna analiza zagrożeń, wykrywanie podatności
 
 - 🧾 **Raport PDF** – pełna dokumentacja audytu  
 - 📜 **Logi Nmapa** – pełne dane portów i fingerprintu  
-- 🧠 **Skrypt audytowy** – automatyzacja procesu (Python)  
+- 🧠 **Skrypt audytowy** – automatyzacja procesu
 - 🧰 **Pliki surowe** – do własnej analizy
 
 ---
