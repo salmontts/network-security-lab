@@ -1,6 +1,6 @@
 # 🛡️ Domowy Audyt Bezpieczeństwa Sieci LAN (2025)
 
-📍 Autor: **AdrianJ & ALEX**  
+📍 Autor: **AdrianJ** 
 📆 Rok: **2025**  
 🐧 OS: Parrot Security OS  
 🎯 Cel: Identyfikacja hostów, analiza urządzeń, wykrycie podatności w domowej sieci lokalnej (192.168.1.0/24)
