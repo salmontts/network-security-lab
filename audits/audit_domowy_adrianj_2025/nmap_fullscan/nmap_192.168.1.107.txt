@@ -1,0 +1,14 @@
+# Nmap 7.94SVN scan initiated Mon Jul  7 00:18:39 2025 as: nmap -sV -T4 -Pn -p- --min-rate=1000 -oN nmap_192.168.1.107.txt 192.168.1.107
+Warning: 192.168.1.107 giving up on port because retransmission cap hit (6).
+RTTVAR has grown to over 2.3 seconds, decreasing to 2.0
+RTTVAR has grown to over 2.3 seconds, decreasing to 2.0
+RTTVAR has grown to over 2.3 seconds, decreasing to 2.0
+RTTVAR has grown to over 2.3 seconds, decreasing to 2.0
+Nmap scan report for 192.168.1.107
+Host is up (0.0027s latency).
+All 65535 scanned ports on 192.168.1.107 are in ignored states.
+Not shown: 65431 closed tcp ports (reset), 104 filtered tcp ports (no-response)
+MAC Address: E4:AA:EC:96:84:2A (Tianjin Hualai Technology)
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Mon Jul  7 00:22:24 2025 -- 1 IP address (1 host up) scanned in 225.15 seconds

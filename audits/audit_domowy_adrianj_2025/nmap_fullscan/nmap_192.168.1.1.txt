@@ -1,0 +1,15 @@
+# Nmap 7.94SVN scan initiated Sun Jul  6 23:48:37 2025 as: nmap -sV -T4 -Pn -p- --min-rate=1000 -oN nmap_192.168.1.1.txt 192.168.1.1
+Nmap scan report for 192.168.1.1
+Host is up (0.00038s latency).
+Not shown: 65530 filtered tcp ports (no-response)
+PORT     STATE  SERVICE     VERSION
+53/tcp   open   domain      dnsmasq 2.81
+80/tcp   open   http        lighttpd 1.4.37
+1900/tcp closed upnp
+3517/tcp closed 802-11-iapp
+5555/tcp open   upnp        myigd 1.0 (Linksys WAG354G router; Linux 3.18.21; UPnP 1.0)
+MAC Address: 54:DB:A2:52:EC:48 (Fibrain)
+Service Info: OS: Linux; Device: WAP; CPE: cpe:/h:linksys:wag354g, cpe:/o:linux:linux_kernel:3.18.21
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Sun Jul  6 23:50:09 2025 -- 1 IP address (1 host up) scanned in 91.43 seconds

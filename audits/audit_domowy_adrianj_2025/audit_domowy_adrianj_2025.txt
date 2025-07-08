@@ -1,0 +1,226 @@
+[*] Rozpoczynam skanowanie sieci domowej: 192.168.1.0/24
+[*] Wykryto 12 aktywnych hostów.
+
+[+] Analiza hosta: 192.168.1.1
+--------------------------------------------
+IP: 192.168.1.1
+MAC: 54:db:a2:52:ec:48
+Producent: Fibrain
+Otwartych portów: 3
+Usługi: domain,http,upnp
+Typ: ❓ Niezidentyfikowany (sprawdź ręcznie)
+[*] Skanowanie podatności...
+|   VULNERABLE:
+|     State: LIKELY VULNERABLE
+
+[+] Analiza hosta: 192.168.1.102
+--------------------------------------------
+IP: 192.168.1.102
+MAC: 
+Producent: 
+      __  __    ___     ___   __   __                     _
+     |  \/  |  /   \   / __|  \ \ / /   ___    _ _     __| |    ___      _ _    ___
+     | |\/| |  | - |  | (__    \ V /   / -_)  | ' \   / _` |   / _ \    | '_|  (_-<
+     |_|__|_|  |_|_|   \___|   _\_/_   \___|  |_||_|  \__,_|   \___/   _|_|_   /__/_
+     _|"""""|_|"""""|_|"""""|_| """"|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
+     "`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'
+
+     Make an account at https://macvendors.com
+     
+Otwartych portów: 1
+Usługi: irc?
+Typ: ❓ Niezidentyfikowany (sprawdź ręcznie)
+[*] Skanowanie podatności...
+Brak oczywistych luk.
+
+[+] Analiza hosta: 192.168.1.103
+--------------------------------------------
+IP: 192.168.1.103
+MAC: 
+Producent: 
+      __  __    ___     ___   __   __                     _
+     |  \/  |  /   \   / __|  \ \ / /   ___    _ _     __| |    ___      _ _    ___
+     | |\/| |  | - |  | (__    \ V /   / -_)  | ' \   / _` |   / _ \    | '_|  (_-<
+     |_|__|_|  |_|_|   \___|   _\_/_   \___|  |_||_|  \__,_|   \___/   _|_|_   /__/_
+     _|"""""|_|"""""|_|"""""|_| """"|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
+     "`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'
+
+     Make an account at https://macvendors.com
+     
+Otwartych portów: 1
+Usługi: irc?
+Typ: ❓ Niezidentyfikowany (sprawdź ręcznie)
+[*] Skanowanie podatności...
+Brak oczywistych luk.
+
+[+] Analiza hosta: 192.168.1.104
+--------------------------------------------
+IP: 192.168.1.104
+MAC: 
+Producent: 
+      __  __    ___     ___   __   __                     _
+     |  \/  |  /   \   / __|  \ \ / /   ___    _ _     __| |    ___      _ _    ___
+     | |\/| |  | - |  | (__    \ V /   / -_)  | ' \   / _` |   / _ \    | '_|  (_-<
+     |_|__|_|  |_|_|   \___|   _\_/_   \___|  |_||_|  \__,_|   \___/   _|_|_   /__/_
+     _|"""""|_|"""""|_|"""""|_| """"|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
+     "`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'
+
+     Make an account at https://macvendors.com
+     
+Otwartych portów: 1
+Usługi: irc?
+Typ: ❓ Niezidentyfikowany (sprawdź ręcznie)
+[*] Skanowanie podatności...
+Brak oczywistych luk.
+
+[+] Analiza hosta: 192.168.1.105
+--------------------------------------------
+IP: 192.168.1.105
+MAC: 
+Producent: 
+      __  __    ___     ___   __   __                     _
+     |  \/  |  /   \   / __|  \ \ / /   ___    _ _     __| |    ___      _ _    ___
+     | |\/| |  | - |  | (__    \ V /   / -_)  | ' \   / _` |   / _ \    | '_|  (_-<
+     |_|__|_|  |_|_|   \___|   _\_/_   \___|  |_||_|  \__,_|   \___/   _|_|_   /__/_
+     _|"""""|_|"""""|_|"""""|_| """"|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
+     "`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'
+
+     Make an account at https://macvendors.com
+     
+Otwartych portów: 1
+Usługi: irc?
+Typ: ❓ Niezidentyfikowany (sprawdź ręcznie)
+[*] Skanowanie podatności...
+Brak oczywistych luk.
+
+[+] Analiza hosta: 192.168.1.106
+--------------------------------------------
+IP: 192.168.1.106
+MAC: 
+Producent: 
+      __  __    ___     ___   __   __                     _
+     |  \/  |  /   \   / __|  \ \ / /   ___    _ _     __| |    ___      _ _    ___
+     | |\/| |  | - |  | (__    \ V /   / -_)  | ' \   / _` |   / _ \    | '_|  (_-<
+     |_|__|_|  |_|_|   \___|   _\_/_   \___|  |_||_|  \__,_|   \___/   _|_|_   /__/_
+     _|"""""|_|"""""|_|"""""|_| """"|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
+     "`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'
+
+     Make an account at https://macvendors.com
+     
+Otwartych portów: 1
+Usługi: irc?
+Typ: ❓ Niezidentyfikowany (sprawdź ręcznie)
+[*] Skanowanie podatności...
+Brak oczywistych luk.
+
+[+] Analiza hosta: 192.168.1.107
+--------------------------------------------
+IP: 192.168.1.107
+MAC: 
+Producent: 
+      __  __    ___     ___   __   __                     _
+     |  \/  |  /   \   / __|  \ \ / /   ___    _ _     __| |    ___      _ _    ___
+     | |\/| |  | - |  | (__    \ V /   / -_)  | ' \   / _` |   / _ \    | '_|  (_-<
+     |_|__|_|  |_|_|   \___|   _\_/_   \___|  |_||_|  \__,_|   \___/   _|_|_   /__/_
+     _|"""""|_|"""""|_|"""""|_| """"|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
+     "`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'
+
+     Make an account at https://macvendors.com
+     
+Otwartych portów: 0
+Usługi: 
+Typ: ❓ Niezidentyfikowany (sprawdź ręcznie)
+[*] Skanowanie podatności...
+Brak oczywistych luk.
+
+[+] Analiza hosta: 192.168.1.108
+--------------------------------------------
+IP: 192.168.1.108
+MAC: 78:8b:2a:58:4a:d7
+Producent: Zhen Shi Information Technology (Shanghai) Co., Ltd.
+Otwartych portów: 0
+Usługi: 
+Typ: ❓ Niezidentyfikowany (sprawdź ręcznie)
+[*] Skanowanie podatności...
+Brak oczywistych luk.
+
+[+] Analiza hosta: 192.168.1.109
+--------------------------------------------
+IP: 192.168.1.109
+MAC: 
+Producent: 
+      __  __    ___     ___   __   __                     _
+     |  \/  |  /   \   / __|  \ \ / /   ___    _ _     __| |    ___      _ _    ___
+     | |\/| |  | - |  | (__    \ V /   / -_)  | ' \   / _` |   / _ \    | '_|  (_-<
+     |_|__|_|  |_|_|   \___|   _\_/_   \___|  |_||_|  \__,_|   \___/   _|_|_   /__/_
+     _|"""""|_|"""""|_|"""""|_| """"|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
+     "`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'
+
+     Make an account at https://macvendors.com
+     
+Otwartych portów: 0
+Usługi: 
+Typ: ❓ Niezidentyfikowany (sprawdź ręcznie)
+[*] Skanowanie podatności...
+Brak oczywistych luk.
+
+[+] Analiza hosta: 192.168.1.114
+--------------------------------------------
+IP: 192.168.1.114
+MAC: 
+Producent: 
+      __  __    ___     ___   __   __                     _
+     |  \/  |  /   \   / __|  \ \ / /   ___    _ _     __| |    ___      _ _    ___
+     | |\/| |  | - |  | (__    \ V /   / -_)  | ' \   / _` |   / _ \    | '_|  (_-<
+     |_|__|_|  |_|_|   \___|   _\_/_   \___|  |_||_|  \__,_|   \___/   _|_|_   /__/_
+     _|"""""|_|"""""|_|"""""|_| """"|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
+     "`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'
+
+     Make an account at https://macvendors.com
+     
+Otwartych portów: 0
+Usługi: 
+Typ: ❓ Niezidentyfikowany (sprawdź ręcznie)
+[*] Skanowanie podatności...
+Brak oczywistych luk.
+
+[+] Analiza hosta: 192.168.1.115
+--------------------------------------------
+IP: 192.168.1.115
+MAC: 
+Producent: 
+      __  __    ___     ___   __   __                     _
+     |  \/  |  /   \   / __|  \ \ / /   ___    _ _     __| |    ___      _ _    ___
+     | |\/| |  | - |  | (__    \ V /   / -_)  | ' \   / _` |   / _ \    | '_|  (_-<
+     |_|__|_|  |_|_|   \___|   _\_/_   \___|  |_||_|  \__,_|   \___/   _|_|_   /__/_
+     _|"""""|_|"""""|_|"""""|_| """"|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
+     "`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'
+
+     Make an account at https://macvendors.com
+     
+Otwartych portów: 8
+Usługi: ssl/unknown,ssl/unknown,http?,ssl/ajp13?,ssl/https-alt?,ssl/cslistener?,tcpwrapped,tcpwrapped
+Typ: ❓ Niezidentyfikowany (sprawdź ręcznie)
+[*] Skanowanie podatności...
+Brak oczywistych luk.
+
+[+] Analiza hosta: 192.168.1.110
+--------------------------------------------
+IP: 192.168.1.110
+MAC: 
+Producent: 
+      __  __    ___     ___   __   __                     _
+     |  \/  |  /   \   / __|  \ \ / /   ___    _ _     __| |    ___      _ _    ___
+     | |\/| |  | - |  | (__    \ V /   / -_)  | ' \   / _` |   / _ \    | '_|  (_-<
+     |_|__|_|  |_|_|   \___|   _\_/_   \___|  |_||_|  \__,_|   \___/   _|_|_   /__/_
+     _|"""""|_|"""""|_|"""""|_| """"|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
+     "`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'
+
+     Make an account at https://macvendors.com
+     
+Otwartych portów: 1
+Usługi: domain
+Typ: ❓ Niezidentyfikowany (sprawdź ręcznie)
+[*] Skanowanie podatności...
+Brak oczywistych luk.
+

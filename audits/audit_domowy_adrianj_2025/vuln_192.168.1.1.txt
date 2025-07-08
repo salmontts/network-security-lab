@@ -1,0 +1,38 @@
+# Nmap 7.94SVN scan initiated Sun Jul  6 23:50:09 2025 as: nmap --script vuln -Pn -oN vuln_192.168.1.1.txt 192.168.1.1
+Nmap scan report for 192.168.1.1
+Host is up (0.00067s latency).
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+53/tcp   open   domain
+80/tcp   open   http
+|_http-aspnet-debug: ERROR: Script execution failed (use -d to debug)
+| http-fileupload-exploiter: 
+|   
+|     Couldn't find a file-type field.
+|   
+|     Couldn't find a file-type field.
+|   
+|_    Couldn't find a file-type field.
+|_http-csrf: Couldn't find any CSRF vulnerabilities.
+|_http-stored-xss: Couldn't find any stored XSS vulnerabilities.
+|_http-dombased-xss: Couldn't find any DOM based XSS.
+| http-slowloris-check: 
+|   VULNERABLE:
+|   Slowloris DOS attack
+|     State: LIKELY VULNERABLE
+|     IDs:  CVE:CVE-2007-6750
+|       Slowloris tries to keep many connections to the target web server open and hold
+|       them open as long as possible.  It accomplishes this by opening connections to
+|       the target web server and sending a partial request. By doing so, it starves
+|       the http server's resources causing Denial Of Service.
+|       
+|     Disclosure date: 2009-09-17
+|     References:
+|       http://ha.ckers.org/slowloris/
+|_      https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2007-6750
+1900/tcp closed upnp
+3517/tcp closed 802-11-iapp
+5555/tcp open   freeciv
+MAC Address: 54:DB:A2:52:EC:48 (Fibrain)
+
+# Nmap done at Sun Jul  6 23:52:07 2025 -- 1 IP address (1 host up) scanned in 117.66 seconds

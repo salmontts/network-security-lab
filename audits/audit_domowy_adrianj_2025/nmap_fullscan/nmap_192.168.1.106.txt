@@ -1,0 +1,11 @@
+# Nmap 7.94SVN scan initiated Mon Jul  7 00:13:09 2025 as: nmap -sV -T4 -Pn -p- --min-rate=1000 -oN nmap_192.168.1.106.txt 192.168.1.106
+Warning: 192.168.1.106 giving up on port because retransmission cap hit (6).
+Nmap scan report for 192.168.1.106
+Host is up (0.010s latency).
+Not shown: 63977 closed tcp ports (reset), 1557 filtered tcp ports (no-response)
+PORT     STATE SERVICE VERSION
+6668/tcp open  irc?
+MAC Address: 50:8B:B9:F3:9F:8B (Unknown)
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Mon Jul  7 00:18:00 2025 -- 1 IP address (1 host up) scanned in 291.41 seconds
